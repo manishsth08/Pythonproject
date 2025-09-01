@@ -1,2 +1,2 @@
 name = input ("Enter your name :")
-print ("Nice talking to you", name)
+print ("Nice talking ", name)
